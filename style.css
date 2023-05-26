@@ -1,0 +1,33 @@
+body {
+    background-color:  #6495ED;
+    width: 800px;
+}
+
+/* headings */
+#heading1 {
+    color: red;
+}
+
+#heading3 {
+    color: rgb(102, 2, 102);
+}
+
+/* cursor for anchor tag */
+.cursor {
+    cursor: pointer;
+    text-decoration: none;
+}
+
+/* images */
+.images {
+    width: 600px;
+}
+
+figure {
+    width: 600px;
+    margin-left: 80px;
+}
+
+figcaption {
+    color: rgb(68, 67, 67);
+}
